@@ -4,6 +4,10 @@
     "death.attack.allurement.shockwave.player.item": "Gracz %1$s został zdeptany przez %2$s za pomocą: %3$s",
     "enchantment.allurement.alleviating": "Łagodzenie",
     "enchantment.allurement.alleviating.desc": "Leczy gracza, podczas gdy ten zbiera punkty doświadczenia",
+    "enchantment.allurement.ascension_curse": "Klątwa unoszenia",
+    "enchantment.allurement.ascension_curse.desc": "Sprawia, że przeklęty przedmiot zaczyna unosić się w górę po upuszczeniu na ziemię",
+    "enchantment.allurement.fleeting_curse": "Klątwa czmychania",
+    "enchantment.allurement.fleeting_curse.desc": "Sprawia, że pobliskie byty odpychają od siebie przeklęty przedmiot po upuszczeniu na ziemię",
     "enchantment.allurement.launch": "Wyrzut",
     "enchantment.allurement.launch.desc": "Wyrzuca cel w górę, zamiast w dal",
     "enchantment.allurement.reeling": "Nawijanie",
@@ -12,6 +16,8 @@
     "enchantment.allurement.reforming.desc": "Z czasem naprawia dany przedmiot, podczas gdy ten jest w użytku",
     "enchantment.allurement.shockwave": "Fala uderzeniowa",
     "enchantment.allurement.shockwave.desc": "Tworzy falę uderzeniową, gdy gracz otrzymuje obrażenia od upadku, która rani pobliskich przeciwników",
+    "enchantment.allurement.spread_of_ailments": "Plaga schorzeń",
+    "enchantment.allurement.spread_of_ailments.desc": "Nadaje aktywne efekty gracza jego strzałom",
     "enchantment.allurement.vengeance": "Zemsta",
     "enchantment.allurement.vengeance.desc": "Przechowuje część otrzymanych obrażeń i stosuje je w następnym ataku"
 }
